@@ -2,7 +2,9 @@
 - I like using whatever tools I can to improve the quality and speed of policy research.
   - These days, I mostly use Python & SQL
   - Familiar with R & Stata, too!
-- Data Analytics student at Carnegie Mellon University ([MSPPM-DA](https://www.heinz.cmu.edu/programs/public-policy-management-master/data-analytics))
+- Public Policy & Data Analytics student at Carnegie Mellon University ([MSPPM-DA](https://www.heinz.cmu.edu/programs/public-policy-management-master/data-analytics))
+
+Thanks for looking! 👋
 
 <!--
 **jack-jacobs/jack-jacobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
