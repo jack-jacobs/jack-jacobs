@@ -1,6 +1,8 @@
 #### Hello! I'm Jack Jacobs 🙂
 - I like using whatever tools I can to improve the quality and speed of policy research.
-  - These days, I mostly use Python & SQL
+  - These days, I mostly use Python & R
+    - Currently learning R Shiny & d3.js viz packages
+  - Proficient in SQL too. (You have to be, right?!)
   - Familiar with R & Stata, too!
 - Public Policy & Data Analytics student at Carnegie Mellon University ([MSPPM-DA](https://www.heinz.cmu.edu/programs/public-policy-management-master/data-analytics))
 
