@@ -1,11 +1,13 @@
 #### Hello! I'm Jack Jacobs 🙂
 - I like using whatever tools I can to improve the quality and speed of policy research.
   - These days, I mostly use Python & R
-    - Python for machine learning & big data
-    - Currently learning R Shiny & d3.js viz packages
+    - R for data munging, geospatial tasks, dashboards, preprocessing for inference, you name it
+    - Python for machine learning, including analysis of unstructured data or big data applications 
   - Proficient in SQL. (You have to be, right?!)
-  - Familiar with Stata, too!
-- Public Policy & Data Analytics student at Carnegie Mellon University ([MSPPM-DA](https://www.heinz.cmu.edu/programs/public-policy-management-master/data-analytics))
+  - Proficient with regression analysis in Stata, too!
+- Data Scientist at [Penn Development Research Initiative / DevLab@Penn](https://pdri-devlab.upenn.edu/)
+- Previously, Public Policy & Data Analytics student at Carnegie Mellon University ([MSPPM-DA](https://www.heinz.cmu.edu/programs/public-policy-management-master/data-analytics))
+  - Graduated May 2023
 
 Thanks for looking! 👋
 
