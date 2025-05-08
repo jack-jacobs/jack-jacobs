@@ -5,9 +5,11 @@
     - Python for machine learning, including analysis of unstructured data or big data applications 
   - Proficient in SQL. (You have to be, right?!)
   - Proficient with regression analysis in Stata, too!
-- Data Scientist at [Penn Development Research Initiative / DevLab@Penn](https://pdri-devlab.upenn.edu/)
-- Previously, Public Policy & Data Analytics student at Carnegie Mellon University ([MSPPM-DA](https://www.heinz.cmu.edu/programs/public-policy-management-master/data-analytics))
-  - Graduated May 2023
+- Data Analyst at the [Michigan Public Health Integrated Center for Outbreak Analytics and Modeling (MICOM)](https://www.micom-insight.net/)
+- Previously...
+  - Data Scientist at [Penn Development Research Initiative / DevLab@Penn](https://pdri-devlab.upenn.edu/)
+  - Public Policy & Data Analytics student at Carnegie Mellon University ([MSPPM-DA](https://www.heinz.cmu.edu/programs/public-policy-management-master/data-analytics))
+    - Graduated May 2023
 
 Thanks for looking! 👋
 
